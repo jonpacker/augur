@@ -10,7 +10,7 @@ I wanted something incredibly tiny, for the single simple purpose of passing
 around resolvable values. Although it looks a bit like the Promises/A+ model, I
 purposefully *do not* fully comply to it.
 
-## how might one partake in your plight?
+## how might one partaketh of thy plight?
 
 ```javascript
 var augur = require('augur');

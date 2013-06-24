@@ -1,6 +1,6 @@
 {
   "name": "augur",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "tiny little promises, cooked to perfection.",
   "main": "augur.js",
   "directories": {

@@ -8,10 +8,12 @@ module.exports = function() {
   function augur() { 
     returns = [].slice.call(arguments);
     fire();
+    return augur;
   }
   augur.then = function(cb) {
     listeners.push(cb);
     fire();
+    return augur;
   };
   return augur;
 };

@@ -1,0 +1,29 @@
+{
+  "name": "augur",
+  "version": "1.0.0",
+  "description": "tiny little promises, cooked to perfection.",
+  "main": "augur.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha -R spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://www.github.com/jonpacker/augur"
+  },
+  "keywords": [
+    "promises",
+    "tiny",
+    "small",
+    "miny"
+  ],
+  "author": "Jon Packer <contact@jonpacker.com>",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "devDependencies": {
+    "collect": "~0.3.5",
+    "mocha": "~1.11.0"
+  }
+}

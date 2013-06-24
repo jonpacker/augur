@@ -1,7 +1,7 @@
 # augur
 
 A tiny little promises library that is much more akin to classic node control
-flow than the Promises/A+ spec.
+flow than the Promises/A+ spec. It also takes up a whopping 17 lines. Aw, yiss.
 
 ## why do this thing?
 
